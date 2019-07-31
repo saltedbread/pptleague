@@ -148,12 +148,12 @@ title: (D) League Matchups
       <td><a href="https://www.twitch.tv/videos/307464851">15-13</a></td> <!--Donorgyll-->
       <td>12-15</td> <!--wait_what-->
       <td><a href="https://www.twitch.tv/videos/312851255?t=00h24m11s">15-3</a></td> <!--Helomair-->
-      <td> </td> <!--t-block-->
+      <td>15-8</td> <!--t-block-->
       <td><del>15-1</del></td> <!--Jonas Neubauer-->
       <td>4-15</td> <!--MSon-->
       <td>12-15</td> <!--onizuka777-->
-      <td>3-3</td>
-      <td>+0</td>
+      <td>4-3</td>
+      <td>+7</td>
     </tr>
     <tr>
       <td>(3) Donorgyll</td>
@@ -195,16 +195,16 @@ title: (D) League Matchups
       <td> </td> <!--Helomair-->
       <td><a href="https://www.twitch.tv/videos/314606984">3-15</a></td> <!--t-block-->
       <td> </td> <!--Jonas Neubauer-->
-      <td> </td> <!--MSon-->
+      <td>9-15</td> <!--MSon-->
       <td><a href="https://www.twitch.tv/videos/310412035?t=13m23s">15-13</a></td> <!--onizuka777-->
-      <td>3-4</td>
-      <td>-15</td>
+      <td>3-5</td>
+      <td>-21</td>
     </tr>
     <tr>
       <td><b>(1)</b> t-block</td>
       <td><a href="https://www.twitch.tv/videos/315664204">15-14</a></td> <!--Blaarg-->
       <td><a href="https://www.twitch.tv/videos/310160497">15-9</a></td> <!--Meiling-->
-      <td> </td> <!--Nick-->
+      <td>8-15</td> <!--Nick-->
       <td> </td> <!--Donorgyll-->
       <td><a href="https://www.twitch.tv/videos/311184301">15-12</a></td> <!--wait_what-->
       <td><a href="https://www.twitch.tv/videos/314606984">15-3</a></td> <!--Helomair-->
@@ -212,8 +212,8 @@ title: (D) League Matchups
       <td><a href="https://www.twitch.tv/videos/308233868"><del>15-2</del></a></td> <!--Jonas Neubauer-->
       <td><a href="https://www.twitch.tv/videos/307368644">9-15</a></td> <!--MSon-->
       <td>15-11</td> <!--onizuka777-->
-      <td>5-1</td>
-      <td>+20</td>
+      <td>5-2</td>
+      <td>+13</td>
     </tr>
     <tr>
       <td><del>Jonas Neubauer</del></td>
@@ -237,13 +237,13 @@ title: (D) League Matchups
       <td>15-4</td> <!--Nick-->
       <td><a href="https://www.twitch.tv/videos/309001046">10-15</a></td> <!--Donorgyll-->
       <td>15-11</td> <!--wait_what-->
-      <td> </td> <!--Helomair-->
+      <td>15-9</td> <!--Helomair-->
       <td><a href="https://www.twitch.tv/videos/307368644">15-9</a></td> <!--t-block-->
       <td><del>15-3</del></td> <!--Jonas Neubauer-->
       <td> </td> <!--MSon-->
       <td>15-11</td> <!--onizuka777-->
-      <td>5-2</td>
-      <td>+24</td>
+      <td>6-2</td>
+      <td>+30</td>
     </tr>
     <tr>
       <td>(7) onizuka777</td>

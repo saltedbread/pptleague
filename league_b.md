@@ -125,13 +125,13 @@ title: (B) League Matchups
       <td><del>15-9</del></td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/313288957">15-12</a></td> <!--RJ-->
       <td>15-2</td> <!--OkeyDokey-->
-      <td> </td> <!--ookamisuketoudara-->
+      <td>10-15</td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/309165469?t=00h14m40s">15-3</a></td> <!--Dazer-->
       <td>15-4</td> <!--CooJ-->
-      <td> </td> <!--Casey.GV-->
+      <td>15-10</td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/312082561">15-3</a></td> <!--saltedbread-->
-      <td>5-1</td>
+      <td>6-2</td>
       <td>+44</td>
     </tr>
     <tr>
@@ -139,16 +139,16 @@ title: (B) League Matchups
       <td><a href="https://www.twitch.tv/videos/305372620">15-8</a></td> <!-- Ting -->
       <td></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
-      <td> </td> <!--RJ-->
-      <td> </td> <!--OkeyDokey-->
+      <td>15-6</td> <!--RJ-->
+      <td>15-1</td> <!--OkeyDokey-->
       <td><a href="https://www.twitch.tv/videos/307352379">12-15</a></td> <!--ookamisuketoudara-->
       <td><a href="https://www.twitch.tv/videos/310334139">15-8</a></td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/313399072">15-1</a></td> <!--Dazer-->
-      <td> </td> <!--CooJ-->
+      <td>15-1</td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/312739578">15-6</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/316318073">15-3</a></td> <!--saltedbread-->
-      <td>5-1</td>
-      <td>+46</td>
+      <td>8-1</td>
+      <td>+83</td>
     </tr>
     <tr>
       <td><del>SiaMeS2E</del></td>
@@ -169,23 +169,23 @@ title: (B) League Matchups
     <tr>
       <td>(7) RJ</td>
       <td><a href="https://www.twitch.tv/videos/313288957">12-15</a></td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>6-15</td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
       <td> </td> <!--RJ-->
       <td>14-15</td> <!--OkeyDokey-->
       <td><a href="https://www.twitch.tv/videos/313533426">12-15</a></td> <!--ookamisuketoudara-->
       <td><a href="https://www.twitch.tv/videos/314341005">11-15</a></td> <!--garbo-->
-      <td> </td> <!--Dazer-->
+      <td>15-4</td> <!--Dazer-->
       <td><a href="https://www.twitch.tv/videos/310653292?t=3206s">15-8</a></td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/305636565">13-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/310184429">15-14</a></td> <!--saltedbread-->
-      <td>2-5</td>
-      <td>-5</td>
+      <td>3-6</td>
+      <td>-3</td>
     </tr>
     <tr>
       <td>(9) OkeyDokey</td>
       <td>2-15</td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>1-15</td> <!--Hua-->
       <td><a href="https://www.twitch.tv/videos/307043269?t=00h07m14s"><del>13-15</del></a></td> <!--SiaMeS2E-->
       <td>15-14</td> <!--RJ-->
       <td> </td> <!--OkeyDokey-->
@@ -195,12 +195,12 @@ title: (B) League Matchups
       <td>13-15</td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/308478539">13-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/308071728">11-15</a></td> <!--saltedbread-->
-      <td>1-6</td>
-      <td>-27</td>
+      <td>1-7</td>
+      <td>-41</td>
     </tr>
     <tr>
       <td><b>(1)</b> ookamisuketoudara</td>
-      <td> </td> <!-- Ting -->
+      <td>15-10</td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/307325252">15-12</a></td> <!--Hua-->
       <td><del>15-14</del></td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/313533426">15-12</a></td> <!--RJ-->
@@ -211,8 +211,8 @@ title: (B) League Matchups
       <td>15-3</td> <!--CooJ-->
       <td>15-8</td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/311136806">15-11</a></td> <!--saltedbread-->
-      <td>7-0</td>
-      <td>+49</td>
+      <td>8-0</td>
+      <td>+54</td>
     </tr>
     <tr>
       <td>(4) garbo</td>
@@ -224,11 +224,11 @@ title: (B) League Matchups
       <td> </td> <!--ookamisuketoudara-->
       <td> </td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/308528524">15-11</a></td> <!--Dazer-->
-      <td> </td> <!--CooJ-->
+      <td>9-15</td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/305648977">4-15</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/314025189">15-8</a></td> <!--saltedbread-->
-      <td>5-2</td>
-      <td>-5</td>
+      <td>5-3</td>
+      <td>-11</td>
     </tr>
     <tr>
       <td>(10) Dazer</td>
@@ -249,22 +249,22 @@ title: (B) League Matchups
     <tr>
       <td>(6) CooJ</td>
       <td>4-15</td> <!-- Ting -->
-      <td> </td> <!--Hua-->
+      <td>1-15</td> <!--Hua-->
       <td><a href="https://www.twitch.tv/videos/306142738?t=00h41m00s"><del>8-15</del></a></td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/310653292?t=3206s">8-15</a></td> <!--RJ-->
       <td><a href="https://www.twitch.tv/videos/313533499">15-13</a></td> <!--OkeyDokey-->
       <td>3-15</td> <!--ookamisuketoudara-->
-      <td> </td> <!--garbo-->
+      <td>15-9</td> <!--garbo-->
       <td><a href="https://www.twitch.tv/videos/305279696?t=01h19m56s">15-13</a></td> <!--Dazer-->
       <td> </td> <!--CooJ-->
       <td><a href="https://www.twitch.tv/videos/313533499">15-11</a></td> <!--Casey.GV-->
       <td><a href="https://www.twitch.tv/videos/309356942">14-15</a></td> <!--saltedbread-->
-      <td>3-4</td>
-      <td>-23</td>
+      <td>4-5</td>
+      <td>-31</td>
     </tr>
     <tr>
       <td>(5) Casey.GV</td>
-      <td> </td> <!-- Ting -->
+      <td>10-15</td> <!-- Ting -->
       <td><a href="https://www.twitch.tv/videos/312739578">6-15</a></td> <!--Hua-->
       <td>X</td> <!--SiaMeS2E-->
       <td><a href="https://www.twitch.tv/videos/305636565">15-13</a></td> <!--RJ-->
@@ -275,8 +275,8 @@ title: (B) League Matchups
       <td><a href="https://www.twitch.tv/videos/313533499">11-15</a></td> <!--CooJ-->
       <td> </td> <!--Casey.GV-->
       <td> </td> <!--saltedbread-->
-      <td>4-3</td>
-      <td>+11</td>
+      <td>4-4</td>
+      <td>+6</td>
     </tr>
     <tr>
       <td>(8) saltedbread</td>

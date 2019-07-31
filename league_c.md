@@ -163,12 +163,12 @@ title: (C) League Matchups
       <td> </td> <!--acliv-->
       <td>15-14</td> <!--dream-->
       <td>8-15</td> <!--Circu1ation-->
-      <td> </td> <!--Shana-->
+      <td>15-8</td> <!--Shana-->
       <td><a href="https://www.twitch.tv/videos/310883683">4-15</a></td> <!--WD-->
       <td><a href="https://www.twitch.tv/videos/309143526?t=00h01m47s">15-14</a></td> <!--gray-->
       <td>15-6</td> <!--Dorothy-->
-      <td>5-3</td>
-      <td>+5</td>
+      <td>6-3</td>
+      <td>+12</td>
     </tr>
     <tr>
       <td>(9) dream</td>
@@ -205,15 +205,15 @@ title: (C) League Matchups
       <td><a href="https://www.youtube.com/watch?v=3fn-SSzm9SE">5-15</a></td> <!--lawren-->
       <td><a href="https://www.youtube.com/watch?v=meHv3bXEmTc">13-15</a></td> <!--Scottobozo-->
       <td>10-15</td> <!--Shard Nguyễn-->
-      <td> </td> <!--acliv-->
+      <td>8-15</td> <!--acliv-->
       <td><a href="https://www.youtube.com/watch?v=_U86IMuMes4">6-15</a></td> <!--dream-->
       <td><a href="https://www.youtube.com/watch?v=UZi3ELHVOYQ">5-15</a></td> <!--Circu1ation-->
       <td> </td> <!--Shana-->
       <td><a href="https://www.youtube.com/watch?v=CaiMNkMFarE">10-15</a></td> <!--WD-->
       <td><a href="https://www.youtube.com/watch?v=muXse4MheYo">10-15</a></td> <!--gray-->
       <td><a href="https://www.youtube.com/watch?v=X97grx_wLGU">5-15</a></td> <!--Dorothy-->
-      <td>0-8</td>
-      <td>-51</td>
+      <td>0-9</td>
+      <td>-58</td>
     </tr>
     <tr>
       <td>(3) WD</td>
